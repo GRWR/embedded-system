@@ -1,5 +1,4 @@
-#GRWR
-##Embedded System
+#GRWR: Embedded System
 
 	Intelligent garden
 
